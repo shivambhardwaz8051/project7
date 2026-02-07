@@ -34,7 +34,7 @@ export default function App() {
   return (
     <div className="app">
       <div className="header">
-        <h1>Shivam Kumar - 2500032187</h1>
+        <p className="small-text">Shivam Kumar - 2500032187</p>
         <h1>Weather App</h1>
       </div>
 

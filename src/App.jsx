@@ -34,6 +34,7 @@ export default function App() {
   return (
     <div className="app">
       <div className="header">
+        <h1>Shivam Kumar - 2500032187</h1>
         <h1>Weather App</h1>
       </div>
 
@@ -62,7 +63,7 @@ export default function App() {
       </div>
 
       <div className="footer">
-        <p>Copyright © 2026 Weather App. All rights reserved.</p>
+        <p>Copyright © 2026 Weather App. All rights reserved.  Shivam Kumar</p>
       </div>
     </div>
   );
